@@ -4,5 +4,4 @@ def greet(name):
 
 
 if __name__ == "__main__":
-    # タイポあり：Wordl → World
-    print(greet("Wordl"))
+    print(greet("World"))
